@@ -11,54 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor in Petroleum Engineering, Ho Chi Minh University of Technology, 2021 - now
+* Study and research in AI 2022 - now
 
-Work experience
+Individual Projects
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Face Analysis**: [detail](/portfolio/)
+* **Vietnames Card Games**: [detail](/portfolio/)
+* **Analysis Tennis Game**: [detail](/portfolio/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: Python (advanced), C++ (pre-intermediate), SQL (intermediate), R
+* Programming Frameworks: Pytorch, OpenCV, Huggingface, Pandas, Numpy, Matplotlib, Seaborn
+* Technologies: Deep Learning, Computer Vision, Docker, Git, GCP, Linux
+* Languages: Vietnamese (native), English(upper-intermediate)
 
-Publications
+Teaching Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Taught secondary mathematics for 3 students in national competitions 
   
-Talks
+Certificate
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Ranked among the top prizewinners in the TOFAS Programming International Competition at the university [link](https://drive.google.com/file/d/1AG69UseTqf1MsPrlajSnKciNiDeVG632/view)
