@@ -18,4 +18,4 @@ Developed an advanced Human Face Analysis system utilizing YOLOv8 for real-time 
 
 This project highlights expertise in deep learning, facial analysis, and the application of computer vision technologies for real-time, practical use cases in both academic and industrial settings.
 
-* Source code: [link](https://github.com/khoitran2003/face-analysis)
+* Source code: [link](https://github.com/khoitran2003/human-face-analysis-AI-hackathon)
